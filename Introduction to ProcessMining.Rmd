@@ -1,0 +1,12 @@
+---
+title: "Introduction to ProcessMining w/ R"
+author: "Kim Julia Fuchs"
+date: "14 2 2020"
+output: html_document
+---
+# Libraries
+```{r}
+library(edeaR) # object masked from base: setdiff
+library(lubridate) # The following object is masked from �package:base�:  date
+```
+
