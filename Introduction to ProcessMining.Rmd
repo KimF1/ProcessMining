@@ -5,8 +5,10 @@ date: "14 2 2020"
 output: html_document
 ---
 # Libraries
-```{r}
+```{r message = FALSE}
 library(edeaR) # object masked from base: setdiff
 library(lubridate) # The following object is masked from �package:base�:  date
+library(dplyr)
+library(ggplot2)
 ```
 
